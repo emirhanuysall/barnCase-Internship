@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FarmBank",
+    "\\FarmBank.Business",
+    "\\FarmBank.Business\\Interfaces",
+    "\\FarmBank.Business\\Services",
+    "\\FarmBank.DataAccess",
+    "\\FarmBank.Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

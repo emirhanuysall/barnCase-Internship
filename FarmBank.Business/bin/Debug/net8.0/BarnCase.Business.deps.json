@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BarnCase.Business/1.0.0": {
+        "dependencies": {
+          "BarnCase.Entities": "1.0.0"
+        },
+        "runtime": {
+          "BarnCase.Business.dll": {}
+        }
+      },
+      "BarnCase.Entities/1.0.0": {
+        "runtime": {
+          "BarnCase.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarnCase.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarnCase.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

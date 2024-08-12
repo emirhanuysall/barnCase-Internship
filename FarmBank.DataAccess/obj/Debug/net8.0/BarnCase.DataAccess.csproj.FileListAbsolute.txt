@@ -1,0 +1,15 @@
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\bin\Debug\net8.0\BarnCase.DataAccess.deps.json
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\bin\Debug\net8.0\BarnCase.DataAccess.dll
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\bin\Debug\net8.0\BarnCase.DataAccess.pdb
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\bin\Debug\net8.0\BarnCase.Entities.dll
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\bin\Debug\net8.0\BarnCase.Entities.pdb
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.AssemblyInfo.cs
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.92357AC7.Up2Date
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.dll
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\refint\BarnCase.DataAccess.dll
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\BarnCase.DataAccess.pdb
+C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.DataAccess\obj\Debug\net8.0\ref\BarnCase.DataAccess.dll

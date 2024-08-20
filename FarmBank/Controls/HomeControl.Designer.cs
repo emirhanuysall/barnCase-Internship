@@ -28,31 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
             SuspendLayout();
-            // 
-            // label1
-            // 
-            label1.Dock = DockStyle.Fill;
-            label1.Location = new Point(0, 0);
-            label1.Name = "label1";
-            label1.Size = new Size(429, 321);
-            label1.TabIndex = 0;
-            label1.Text = "home";
-            label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // HomeControl
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(label1);
             Name = "HomeControl";
-            Size = new Size(429, 321);
+            Size = new Size(741, 629);
             ResumeLayout(false);
         }
 
         #endregion
-
-        private Label label1;
     }
 }

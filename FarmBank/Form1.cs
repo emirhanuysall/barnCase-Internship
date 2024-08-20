@@ -10,7 +10,7 @@ namespace FarmBank
             ShowControl(new HomeControl());
             SetColor(btnHome);
         }
-
+        
         Color HbColor = "80808c".toHex();
         Color pbColor = "769490".toHex();
         Color BbColor = "726960".toHex();

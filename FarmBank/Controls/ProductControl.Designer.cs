@@ -28,31 +28,43 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
+            dataGrid_Product = new DataGridView();
+            label_Price = new Label();
+            ((System.ComponentModel.ISupportInitialize)dataGrid_Product).BeginInit();
             SuspendLayout();
             // 
-            // label1
+            // dataGrid_Product
             // 
-            label1.Dock = DockStyle.Fill;
-            label1.Location = new Point(0, 0);
-            label1.Name = "label1";
-            label1.Size = new Size(423, 370);
-            label1.TabIndex = 0;
-            label1.Text = "product";
-            label1.TextAlign = ContentAlignment.MiddleCenter;
+            dataGrid_Product.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGrid_Product.Location = new Point(95, 177);
+            dataGrid_Product.Name = "dataGrid_Product";
+            dataGrid_Product.Size = new Size(521, 150);
+            dataGrid_Product.TabIndex = 0;
+            // 
+            // label_Price
+            // 
+            label_Price.AutoSize = true;
+            label_Price.Location = new Point(95, 411);
+            label_Price.Name = "label_Price";
+            label_Price.Size = new Size(0, 15);
+            label_Price.TabIndex = 1;
             // 
             // ProductControl
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(label1);
+            Controls.Add(label_Price);
+            Controls.Add(dataGrid_Product);
             Name = "ProductControl";
-            Size = new Size(423, 370);
+            Size = new Size(708, 588);
+            ((System.ComponentModel.ISupportInitialize)dataGrid_Product).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private Label label1;
+        private DataGridView dataGrid_Product;
+        private Label label_Price;
     }
 }

@@ -2,11 +2,12 @@
 {
     public abstract class Animal
     {
-        public string Name { get; set; }
-        public DateTime BirthDate { get; set; }
-        public TimeSpan Lifespan { get; set; }
+        public string? Name { get; set; }
+        public int? Age { get; set; }
+        public TimeSpan LifeSpan { get; set; }
 
-        public abstract void Produce();
+        public virtual int ProductTimeTick { get; set; } = 1;
+        
     }
 }
 

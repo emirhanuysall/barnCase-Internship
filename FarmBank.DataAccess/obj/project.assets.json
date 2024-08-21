@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\BarnCase.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\BarnCase.DataAccess.csproj",
       "projectName": "BarnCase.DataAccess",
-      "projectPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\BarnCase.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\BarnCase.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Emirhan Uysal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\BarnCase.Entities.csproj": {
-              "projectPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\BarnCase.Entities.csproj"
+            "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\BarnCase.Entities.csproj": {
+              "projectPath": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\BarnCase.Entities.csproj"
             }
           }
         }

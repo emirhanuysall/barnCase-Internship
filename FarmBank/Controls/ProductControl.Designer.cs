@@ -38,7 +38,7 @@
             dataGrid_Product.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGrid_Product.Location = new Point(95, 177);
             dataGrid_Product.Name = "dataGrid_Product";
-            dataGrid_Product.Size = new Size(521, 150);
+            dataGrid_Product.Size = new Size(544, 145);
             dataGrid_Product.TabIndex = 0;
             // 
             // label_Price

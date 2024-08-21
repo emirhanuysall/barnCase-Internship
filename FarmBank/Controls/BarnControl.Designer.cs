@@ -61,7 +61,7 @@
             btn_AddList.Name = "btn_AddList";
             btn_AddList.Size = new Size(75, 23);
             btn_AddList.TabIndex = 3;
-            btn_AddList.Text = "Add List";
+            btn_AddList.Text = "Buy ";
             btn_AddList.UseVisualStyleBackColor = true;
             btn_AddList.Click += btn_AddList_Click;
             // 

@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BarnCase.Entities;
-//kayıt işlemleri parametrik olarak tutulacak.
 
 namespace BarnCase.UI.Controls
 {
     public partial class BarnControl : UserControl
     {
-        private List<Animal> animalList = new List<Animal>();
+        
+        public event Action AnimalsAdded;
 
         public BarnControl()
         {
@@ -28,6 +28,11 @@ namespace BarnCase.UI.Controls
 
             dataGrid_Animal.Columns.Add("Name", "Name");
             dataGrid_Animal.Columns.Add("Age", "Age");
+
+            foreach (var animal in AnimalStorage.AnimalList)
+            {
+                dataGrid_Animal.Rows.Add(animal.Name, animal.Age.ToString());
+            }
         }
 
         private void btn_AddList_Click(object sender, EventArgs e)
@@ -55,12 +60,25 @@ namespace BarnCase.UI.Controls
                         return;
                 }
 
-                animalList.Add(animalToAdd);
+                AnimalStorage.AnimalList.Add(animalToAdd);
                 dataGrid_Animal.Rows.Add(animalToAdd.Name, animalToAdd.Age.ToString());
+
+             
+                AnimalsAdded?.Invoke();
             }
             else
             {
                 MessageBox.Show("Please choose both an animal and age.");
+            }
+        }
+
+        public void UpdateUIFromStorage()
+        {
+            dataGrid_Animal.Rows.Clear();
+
+            foreach (var animal in AnimalStorage.AnimalList)
+            {
+                dataGrid_Animal.Rows.Add(animal.Name, animal.Age.ToString());
             }
         }
     }

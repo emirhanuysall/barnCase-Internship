@@ -6,9 +6,7 @@
     "\\FarmBank.Business\\Interfaces",
     "\\FarmBank.Business\\Services",
     "\\FarmBank.DataAccess",
-    "\\FarmBank.Entities",
-    "\\FarmBank\\Controls"
+    "\\FarmBank.Entities"
   ],
-  "SelectedNode": "\\FarmBank\\Controls\\ProductControl.cs",
   "PreviewInSolutionExplorer": false
 }

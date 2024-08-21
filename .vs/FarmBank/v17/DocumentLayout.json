@@ -1,113 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\",
+  "WorkspaceRootPath": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\controls\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\controls\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\farmbank\\controls\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\farmbank\\controls\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\controls\\productcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\productcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\controls\\barncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\barncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.entities\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.entities\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\farmbank\\controls\\barncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\barncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\controls\\barncontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\barncontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.entities\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB72E87-C03A-4760-9B53-169208AC195C}|FarmBank.DataAccess\\BarnCase.DataAccess.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.dataaccess\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB72E87-C03A-4760-9B53-169208AC195C}|FarmBank.DataAccess\\BarnCase.DataAccess.csproj|solutionrelative:farmbank.dataaccess\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\services\\cowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\cowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\services\\chickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\chickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.business\\interfaces\\ichickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\interfaces\\ichickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\farmbank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB72E87-C03A-4760-9B53-169208AC195C}|FarmBank.DataAccess\\BarnCase.DataAccess.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.entities\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.entities\\productstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\productstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\controls\\barncontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\barncontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.entities\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.business\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.business\\services\\cowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\cowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.business\\services\\chickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\services\\chickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.business\\interfaces\\ichickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96A7110-F385-4938-B0F4-D108E949174F}|FarmBank.Business\\BarnCase.Business.csproj|solutionrelative:farmbank.business\\interfaces\\ichickenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB72E87-C03A-4760-9B53-169208AC195C}|FarmBank.DataAccess\\BarnCase.DataAccess.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBB72E87-C03A-4760-9B53-169208AC195C}|FarmBank.DataAccess\\BarnCase.DataAccess.csproj|solutionrelative:farmbank.dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\barncase.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\barncase.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\barncase.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E360768-B948-4B5B-8FFA-02C995BC1061}|FarmBank.Entities\\BarnCase.Entities.csproj|solutionrelative:farmbank.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\farmbank\\controls\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\source\\repos\\barncase-internship\\farmbank\\controls\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|c:\\users\\emirhan uysal\\desktop\\barncase\\barncaseproject-mseintern\\farmbank\\controls\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9718EEC-4F47-451B-9AA0-B9B34ADC103B}|FarmBank\\BarnCase.UI.csproj|solutionrelative:farmbank\\controls\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -118,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,11 +98,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\ProductControl.cs",
+              "DocumentIndex": 0,
+              "Title": "ProductControl.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\ProductControl.cs",
               "RelativeDocumentMoniker": "FarmBank\\Controls\\ProductControl.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\ProductControl.cs [Design]",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\ProductControl.cs",
+              "RelativeToolTip": "FarmBank\\Controls\\ProductControl.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:19:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Chicken.cs",
+              "RelativeDocumentMoniker": "FarmBank.Entities\\Chicken.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Chicken.cs",
+              "RelativeToolTip": "FarmBank.Entities\\Chicken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:32:31.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FarmBank.Business\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Services\\ProductService.cs",
+              "RelativeToolTip": "FarmBank.Business\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:13:54.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Animal.cs",
+              "RelativeDocumentMoniker": "FarmBank.Entities\\Animal.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Animal.cs",
+              "RelativeToolTip": "FarmBank.Entities\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:32:46.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\ProductStorage.cs",
+              "RelativeDocumentMoniker": "FarmBank.Entities\\ProductStorage.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\ProductStorage.cs",
+              "RelativeToolTip": "FarmBank.Entities\\ProductStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:53:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Form1.cs",
+              "RelativeDocumentMoniker": "FarmBank\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Form1.cs",
+              "RelativeToolTip": "FarmBank\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:34:10.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\ProductControl.cs",
+              "RelativeDocumentMoniker": "FarmBank\\Controls\\ProductControl.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\ProductControl.cs [Design]",
               "RelativeToolTip": "FarmBank\\Controls\\ProductControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T07:53:49.893Z",
@@ -138,132 +188,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductControl.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\ProductControl.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Controls\\ProductControl.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\ProductControl.cs",
-              "RelativeToolTip": "FarmBank\\Controls\\ProductControl.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAuwDIAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T07:27:18.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductControl.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\ProductControl.Designer.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Controls\\ProductControl.Designer.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\ProductControl.Designer.cs",
-              "RelativeToolTip": "FarmBank\\Controls\\ProductControl.Designer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T07:27:11.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BarnControl.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\BarnControl.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Controls\\BarnControl.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\BarnControl.cs",
-              "RelativeToolTip": "FarmBank\\Controls\\BarnControl.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T17:15:53.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AnimalService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\AnimalService.cs",
-              "RelativeDocumentMoniker": "FarmBank.Business\\Services\\AnimalService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\AnimalService.cs",
-              "RelativeToolTip": "FarmBank.Business\\Services\\AnimalService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T12:06:08.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cow.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Cow.cs",
-              "RelativeDocumentMoniker": "FarmBank.Entities\\Cow.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Cow.cs",
-              "RelativeToolTip": "FarmBank.Entities\\Cow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:32:57.342Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Chicken.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Chicken.cs",
-              "RelativeDocumentMoniker": "FarmBank.Entities\\Chicken.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Chicken.cs",
-              "RelativeToolTip": "FarmBank.Entities\\Chicken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Title": "BarnControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\BarnControl.Designer.cs",
+              "RelativeDocumentMoniker": "FarmBank\\Controls\\BarnControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\BarnControl.Designer.cs",
+              "RelativeToolTip": "FarmBank\\Controls\\BarnControl.Designer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAmwGoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:32:31.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "FarmBank.Business\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\ProductService.cs",
-              "RelativeToolTip": "FarmBank.Business\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:13:54.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Animal.cs",
-              "RelativeDocumentMoniker": "FarmBank.Entities\\Animal.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Animal.cs",
-              "RelativeToolTip": "FarmBank.Entities\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:32:46.832Z"
+              "WhenOpened": "2024-08-16T06:31:07.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BarnControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\BarnControl.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Controls\\BarnControl.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\BarnControl.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\BarnControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T11:52:53.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BarnControl.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\BarnControl.Designer.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Controls\\BarnControl.Designer.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\BarnControl.Designer.cs",
-              "RelativeToolTip": "FarmBank\\Controls\\BarnControl.Designer.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAmwGoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:31:07.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Sheep.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Sheep.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Sheep.cs",
               "RelativeDocumentMoniker": "FarmBank.Entities\\Sheep.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Sheep.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Sheep.cs",
               "RelativeToolTip": "FarmBank.Entities\\Sheep.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "IAnimalService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Interfaces\\IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Interfaces\\IAnimalService.cs",
               "RelativeDocumentMoniker": "FarmBank.Business\\Interfaces\\IAnimalService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Interfaces\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Interfaces\\IAnimalService.cs",
               "RelativeToolTip": "FarmBank.Business\\Interfaces\\IAnimalService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "IChickenService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Interfaces\\IChickenService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Interfaces\\IChickenService.cs",
               "RelativeDocumentMoniker": "FarmBank.Business\\Interfaces\\IChickenService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Interfaces\\IChickenService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Interfaces\\IChickenService.cs",
               "RelativeToolTip": "FarmBank.Business\\Interfaces\\IChickenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +237,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Interfaces\\IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "FarmBank.Business\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "FarmBank.Business\\Interfaces\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "ChickenService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\ChickenService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Services\\ChickenService.cs",
               "RelativeDocumentMoniker": "FarmBank.Business\\Services\\ChickenService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\ChickenService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Services\\ChickenService.cs",
               "RelativeToolTip": "FarmBank.Business\\Services\\ChickenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "CowService.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\CowService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Services\\CowService.cs",
               "RelativeDocumentMoniker": "FarmBank.Business\\Services\\CowService.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Business\\Services\\CowService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Business\\Services\\CowService.cs",
               "RelativeToolTip": "FarmBank.Business\\Services\\CowService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,46 +273,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AnimalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\AnimalRepository.cs",
-              "RelativeDocumentMoniker": "FarmBank.DataAccess\\AnimalRepository.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\AnimalRepository.cs",
-              "RelativeToolTip": "FarmBank.DataAccess\\AnimalRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:28:19.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Form1.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Form1.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:33:59.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Form1.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Form1.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Form1.cs",
-              "RelativeToolTip": "FarmBank\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:34:10.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\ProductRepository.cs",
               "RelativeDocumentMoniker": "FarmBank.DataAccess\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.DataAccess\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\ProductRepository.cs",
               "RelativeToolTip": "FarmBank.DataAccess\\ProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,11 +285,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 17,
               "Title": "BarnCase.UI.csproj",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\BarnCase.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\BarnCase.UI.csproj",
               "RelativeDocumentMoniker": "FarmBank\\BarnCase.UI.csproj",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\BarnCase.UI.csproj",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\BarnCase.UI.csproj",
               "RelativeToolTip": "FarmBank\\BarnCase.UI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -390,11 +297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "Extentions.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Extentions.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Extentions.cs",
               "RelativeDocumentMoniker": "FarmBank\\Extentions.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Extentions.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Extentions.cs",
               "RelativeToolTip": "FarmBank\\Extentions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -402,23 +309,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "FarmBank\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Form1.Designer.cs",
               "RelativeToolTip": "FarmBank\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:05:26.155Z"
+              "WhenOpened": "2024-08-16T11:05:26.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Product.cs",
               "RelativeDocumentMoniker": "FarmBank.Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank.Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\Product.cs",
               "RelativeToolTip": "FarmBank.Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,22 +334,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HomeControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\HomeControl.cs",
-              "RelativeDocumentMoniker": "FarmBank\\Controls\\HomeControl.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\HomeControl.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\HomeControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T08:13:12.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 19,
               "Title": "HomeControl.cs",
-              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\HomeControl.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\HomeControl.cs",
               "RelativeDocumentMoniker": "FarmBank\\Controls\\HomeControl.cs",
-              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\barnCase-Internship\\FarmBank\\Controls\\HomeControl.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank\\Controls\\HomeControl.cs",
               "RelativeToolTip": "FarmBank\\Controls\\HomeControl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

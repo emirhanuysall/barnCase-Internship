@@ -2,7 +2,7 @@
 
 namespace BarnCase.Business.Interfaces
 {
-    public  interface IAnimalService
+    public interface IAnimalService
     {
         void AddAnimal(Animal animal);
         void RemoveAnimal(Animal animal);

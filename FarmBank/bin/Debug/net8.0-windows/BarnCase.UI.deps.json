@@ -18,6 +18,7 @@
       },
       "BarnCase.Business/1.0.0": {
         "dependencies": {
+          "BarnCase.DataAccess": "1.0.0",
           "BarnCase.Entities": "1.0.0"
         },
         "runtime": {

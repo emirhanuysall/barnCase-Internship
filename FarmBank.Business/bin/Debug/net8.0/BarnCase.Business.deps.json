@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v8.0": {
       "BarnCase.Business/1.0.0": {
         "dependencies": {
+          "BarnCase.DataAccess": "1.0.0",
           "BarnCase.Entities": "1.0.0"
         },
         "runtime": {
           "BarnCase.Business.dll": {}
+        }
+      },
+      "BarnCase.DataAccess/1.0.0": {
+        "dependencies": {
+          "BarnCase.Entities": "1.0.0"
+        },
+        "runtime": {
+          "BarnCase.DataAccess.dll": {}
         }
       },
       "BarnCase.Entities/1.0.0": {
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "BarnCase.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarnCase.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

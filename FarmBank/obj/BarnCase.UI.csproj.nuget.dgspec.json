@@ -34,6 +34,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\BarnCase.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.DataAccess\\BarnCase.DataAccess.csproj"
+              },
               "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\BarnCase.Entities.csproj": {
                 "projectPath": "C:\\Users\\Emirhan Uysal\\Desktop\\barncase\\barncaseproject-mseintern\\FarmBank.Entities\\BarnCase.Entities.csproj"
               }

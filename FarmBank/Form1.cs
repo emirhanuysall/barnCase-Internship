@@ -1,39 +1,50 @@
 using System;
 using System.Windows.Forms;
+using System.Linq;
 using BarnCase.Entities;
 using BarnCase.UI.Controls;
+using BarnCase.Business;
+using BarnCase.DataAccess;
 
 namespace FarmBank
 {
     public partial class Form1 : Form
     {
-        private BarnControl barnControl;
-        private ProductControl productControl;
-        private HomeControl homeControl;
+        private AnimalServices _animalServices; 
+        private BarnControl _barnControl; 
+        private ProductControl _productControl; 
+        private HomeControl _homeControl; 
+        private ProductService _productService;
 
         public Form1()
         {
             InitializeComponent();
 
-            barnControl = new BarnControl();
-            productControl = new ProductControl();
-            homeControl = new HomeControl();
+            // AnimalServices ve ProductService nesnelerini oluþturur.
+            _animalServices = new AnimalServices();
+            _productService = new ProductService(); 
 
-          
-            barnControl.AnimalsAdded += OnAnimalsAdded;
+            // BarnControl ve ProductControl nesnelerini oluþturur.
+            _barnControl = new BarnControl(_animalServices);
+            _productControl = new ProductControl(_productService);
+            _homeControl = new HomeControl();
 
-            ShowControl(homeControl);
+            // BarnControl üzerindeki AnimalsAdded olayýna yanýt olarak OnAnimalsAdded yöntemini baðlar.
+            _barnControl.AnimalsAdded += OnAnimalsAdded;
+
+            // Baþlangýçta homeControl'ü gösterir ve btnHome düðmesinin rengini ayarlar.
+            ShowControl(_homeControl);
             SetColor(btnHome);
         }
 
         private void OnAnimalsAdded()
         {
-         
             bool cows = AnimalStorage.AnimalList.Any(a => a is Cow);
             bool sheep = AnimalStorage.AnimalList.Any(a => a is Sheep);
             bool chickens = AnimalStorage.AnimalList.Any(a => a is Chicken);
 
-            productControl.SetAnimalsAdded(cows, sheep, chickens);
+            // ProductControl üzerindeki SetAnimalsAdded metodunu çaðýrýr
+            _productService.SetAnimalsAdded(cows, sheep, chickens);
         }
 
         Color HbColor = "80808c".toHex();
@@ -51,20 +62,20 @@ namespace FarmBank
 
         private void btnHome_Click(object sender, EventArgs e)
         {
-            ShowControl(homeControl);
+            ShowControl(_homeControl);
             SetColor(btnHome);
         }
 
         private void btnProduct_Click(object sender, EventArgs e)
         {
-            ShowControl(productControl);
+            ShowControl(_productControl);
             SetColor(btnProduct);
         }
 
         private void btnBarn_Click(object sender, EventArgs e)
         {
-            barnControl.UpdateUIFromStorage();
-            ShowControl(barnControl);
+            _barnControl.UpdateUIFromStorage();
+            ShowControl(_barnControl);
             SetColor(btnBarn);
         }
 
@@ -84,4 +95,3 @@ namespace FarmBank
         }
     }
 }
-

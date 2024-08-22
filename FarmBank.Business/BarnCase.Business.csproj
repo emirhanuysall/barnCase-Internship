@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FarmBank.DataAccess\BarnCase.DataAccess.csproj" />
     <ProjectReference Include="..\FarmBank.Entities\BarnCase.Entities.csproj" />
   </ItemGroup>
 

@@ -4,7 +4,7 @@
     {
         public string? Name { get; set; }
         public int? Age { get; set; }
-        public TimeSpan LifeSpan { get; set; }
+        public TimeSpan ProductionTime { get; set; }
 
         public virtual int ProductTimeTick { get; set; } = 1;
         

@@ -9,3 +9,15 @@ C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.Entit
 C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.Entities\obj\Debug\net8.0\refint\BarnCase.Entities.dll
 C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.pdb
 C:\Users\Emirhan Uysal\Desktop\barncase\barncaseproject-mseintern\FarmBank.Entities\obj\Debug\net8.0\ref\BarnCase.Entities.dll
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\bin\Debug\net8.0\BarnCase.Entities.deps.json
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\bin\Debug\net8.0\BarnCase.Entities.dll
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\bin\Debug\net8.0\BarnCase.Entities.pdb
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.AssemblyInfoInputs.cache
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.AssemblyInfo.cs
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.sourcelink.json
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.dll
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\refint\BarnCase.Entities.dll
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\BarnCase.Entities.pdb
+C:\Users\Emirhan Uysal\source\repos\barnCase-Internship\FarmBank.Entities\obj\Debug\net8.0\ref\BarnCase.Entities.dll

@@ -52,7 +52,18 @@ namespace BarnCase.UI.Controls
             if (!string.IsNullOrEmpty(selectedAnimal) && !string.IsNullOrEmpty(selectedAge))
             {
                 // Hayvan ekleme işlemini AnimalServices üzerinden yapar.
-                _animalServices.AddAnimal(selectedAnimal, int.Parse(selectedAge));
+                string result = _animalServices.AddAnimal(selectedAnimal, int.Parse(selectedAge));
+
+                // Eğer hata mesajı varsa, kullanıcıya gösterir.
+                if (!string.IsNullOrEmpty(result))
+                {
+                    MessageBox.Show(result, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+                else
+                {
+                    // Hayvan başarıyla eklendiğinde UI'yı günceller.
+                    UpdateUIFromStorage();
+                }
             }
             else
             {
@@ -60,6 +71,7 @@ namespace BarnCase.UI.Controls
                 MessageBox.Show("Please choose both an animal and age.");
             }
         }
+
 
         // Hayvanlar eklendiğinde UI'yı günceller.
         private void OnAnimalsAdded()

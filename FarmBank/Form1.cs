@@ -10,19 +10,21 @@ namespace FarmBank
 {
     public partial class Form1 : Form
     {
-        private AnimalServices _animalServices; 
-        private BarnControl _barnControl; 
-        private ProductControl _productControl; 
-        private HomeControl _homeControl; 
+        private AnimalServices _animalServices;
+        private BarnControl _barnControl;
+        private ProductControl _productControl;
+        private HomeControl _homeControl;
         private ProductService _productService;
 
         public Form1()
         {
             InitializeComponent();
 
-            // AnimalServices ve ProductService nesnelerini oluþturur.
-            _animalServices = new AnimalServices();
-            _productService = new ProductService(); 
+            // Önce ProductService nesnesini oluþturun
+            _productService = new ProductService();
+
+            // AnimalServices nesnesini oluþtururken ProductService nesnesini geçin
+            _animalServices = new AnimalServices(_productService);
 
             // BarnControl ve ProductControl nesnelerini oluþturur.
             _barnControl = new BarnControl(_animalServices);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarnCase.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5f259dc3c6c8b6d1142732c0ccbf2456d42cede")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6ec6dbb4cf9dfea5fe0df1f8d3335441a0cb5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarnCase.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarnCase.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

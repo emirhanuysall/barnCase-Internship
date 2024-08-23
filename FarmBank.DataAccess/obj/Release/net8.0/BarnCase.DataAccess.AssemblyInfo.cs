@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarnCase.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3608d4bfceae2876541876e21c34e1356738d339")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6ec6dbb4cf9dfea5fe0df1f8d3335441a0cb5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarnCase.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarnCase.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

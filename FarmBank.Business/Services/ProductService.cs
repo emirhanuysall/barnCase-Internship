@@ -7,12 +7,15 @@ namespace BarnCase.Business
 {
     public class ProductService
     {
-        // Ürünler güncellendiğinde tetiklenen olay
         public event Action ProductsUpdated;
 
-        private bool _hasCows;        
-        private bool _hasSheep;       
-        private bool _hasChickens;    
+        private bool _hasCows;
+        private bool _hasSheep;
+        private bool _hasChickens;
+
+        // Temel üretim süreleri
+        private const int BaseProductionTime = 10; // Temel üretim süresi (saniye)
+        private const int ProductionDecreasePerAnimal = 1; // Hayvan başına azalan süre (saniye)
 
         // Ürünlerin ilerlemesini günceller
         public void UpdateProductProgress()
@@ -29,7 +32,6 @@ namespace BarnCase.Business
             if (_hasChickens)
                 UpdateProgress(ProductType.Egg);
 
-            // Ürünlerin güncellendiğini belirten olayı tetikleyin
             ProductsUpdated?.Invoke();
         }
 
@@ -43,28 +45,50 @@ namespace BarnCase.Business
 
             int progressValue = (int)progress;
 
+            // Dinamik üretim süresini hesapla
+            int productionTime = CalculateDynamicProductionTime(productType);
+
             // İlerleme %100'ün altındaysa, ilerlemeyi güncelle
             if (progressValue < 100)
             {
-                progressValue += 10; // Her güncellemede ilerlemeyi %10 artır
+                progressValue += 100 / productionTime; // İlerleme artışını dinamik üretim süresine göre ayarla
                 if (progressValue >= 100)
                 {
-                    // Ürün tamamlandıysa miktarı artır ve ilerlemeyi sıfırla
                     var quantity = ProductStorage.ProductQuantities.ContainsKey(productType)
                         ? ProductStorage.ProductQuantities[productType]
                         : 0;
                     ProductStorage.ProductQuantities[productType] = quantity + 1;
                     progressValue = 0;
                 }
-                // Güncellenmiş ilerlemeyi sakla
                 ProductStorage.ProgressBars[productType] = (ProgressStatus)progressValue;
             }
+        }
+
+        // Dinamik üretim süresini hesaplar
+        private int CalculateDynamicProductionTime(ProductType productType)
+        {
+            int animalCount = 0;
+            switch (productType)
+            {
+                case ProductType.Milk:
+                    animalCount = AnimalStorage.AnimalList.Count(a => a is Cow);
+                    break;
+                case ProductType.Wool:
+                    animalCount = AnimalStorage.AnimalList.Count(a => a is Sheep);
+                    break;
+                case ProductType.Egg:
+                    animalCount = AnimalStorage.AnimalList.Count(a => a is Chicken);
+                    break;
+            }
+
+            // Üretim süresi, hayvan başına belirli bir süre azalır
+            int dynamicTime = BaseProductionTime - (animalCount * ProductionDecreasePerAnimal);
+            return Math.Max(dynamicTime, 1); // Üretim süresi en az 1 saniye olmalıdır
         }
 
         // Ürünü satar ve toplam satışları günceller
         public void SellProduct(ProductType productType)
         {
-            // Ürünün miktarı varsa, miktarı bir azalt ve toplam satışları güncelle
             if (ProductStorage.ProductQuantities.ContainsKey(productType) && ProductStorage.ProductQuantities[productType] > 0)
             {
                 ProductStorage.ProductQuantities[productType]--;
@@ -73,10 +97,8 @@ namespace BarnCase.Business
             }
         }
 
-        // Toplam satışları günceller
         private void UpdateTotalSales(ProductType productType)
         {
-            // Ürün türüne göre fiyat belirle
             int price = productType switch
             {
                 ProductType.Milk => 20,
@@ -84,39 +106,34 @@ namespace BarnCase.Business
                 ProductType.Egg => 10,
                 _ => 0
             };
-
-            // Toplam satışları artır
             ProductStorage.TotalSales += price;
         }
 
-        // Ürün miktarlarını döner
         public Dictionary<ProductType, int> GetProductQuantities()
         {
             return ProductStorage.ProductQuantities;
         }
 
-        // Progress bar döner
         public Dictionary<ProductType, ProgressStatus> GetProgressBars()
         {
             return ProductStorage.ProgressBars;
         }
 
-        // Toplam satışları döner
         public int GetTotalSales()
         {
             return ProductStorage.TotalSales;
         }
 
-        // Hayvanların varlığını ayarlar ve ilgili ilerleme durumlarını günceller
         public void SetAnimalsAdded(bool hasCows, bool hasSheep, bool hasChickens)
         {
             _hasCows = hasCows;
             _hasSheep = hasSheep;
             _hasChickens = hasChickens;
 
-            // İlgili ürünlerin ilerlemesini başlat
             UpdateProductProgress();
             ProductsUpdated?.Invoke();
         }
     }
 }
+
+

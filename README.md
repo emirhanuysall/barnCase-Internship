@@ -10,7 +10,7 @@ FarmProject is a simulation-based application designed to manage a farm with cow
 Clone Project:
 
 ```bash
-  git clone https://link-to-project
+  https://github.com/emirhanuysall/barnCase-Internship.git
 ```
 Open the solution:
 
